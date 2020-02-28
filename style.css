@@ -1,0 +1,1694 @@
+			/* one============================================================================ */
+			
+			#zhengge{
+				background-color: ghostwhite;
+			}
+			#one {
+				min-width: 800px;
+				height: 34px;
+				line-height: 34px;
+				background-color: #F4F4F4;
+				margin: 0 auto;
+			}
+			
+			#one ul {
+				
+				margin-right: 160px;
+			}
+			
+			#one ul li {
+				float: left;
+				font-size: 12px;
+				padding-right: 5px;
+			}
+			
+			#add {
+				font-size: 12px;
+				margin-left: 30px;
+				position: relative;
+			}
+			
+			#one #song {
+				width: 5px;
+				height: 32px;
+				float: left;
+				margin: 0 30px 0 130px;
+			}
+			
+			#one .fr li .deng {
+				color: #FF0000;
+			}
+			
+			#one a:hover {
+				color: #FF0000;
+			}
+			
+			#one .fr .hui {
+				width: 5px;
+				height: 30px;
+				float: left;
+				margin: 5px 15px 0 0;
+			}
+			
+			#one .fr .wo {
+				width: 5px;
+				height: 30px;
+				float: left;
+				margin: 5px 15px 0 0;
+			}
+			
+			#one #add .re {
+				width: 540px;
+				height: 250px;
+				border: 1px #555555 solid;
+				overflow: auto;
+				display: none;
+				position: absolute;
+				left: 100px;
+				top: 34px;
+				background-color:#FFFFFF; 
+				z-index: 20;}
+			
+			
+			#one #add .re .an a{
+				display: inline-block;
+				background-color: #EEEEEE;
+				width: 25px;
+				margin: 3px;
+				text-align: center;
+				height: 25px;
+			}
+			
+			#one #add:hover .re {
+				display: block;
+			}
+			#one #add .pic{float: left; margin: 0 0 0 160px;}
+			
+			/* two================================================================================================== */
+			#two{
+			min-width: 1100px;
+			height: 180px;
+			margin: 0 auto;
+			position: relative;
+			margin: 0 auto;
+			background-color: #FFFFFF;
+			}
+			#two .logo{
+			margin: 19px 0 0 -141px;
+			float: left;
+			}
+			#two .sousuo{
+				height: 40px;
+				width: 512px;
+				border: solid 1px gray;
+				border-radius: 30px;
+				margin: 45px -46px ;
+				float: left;
+				outline: none;
+				background-color:#FCFCFC;
+				position: absolute;left: 730px;top: 0px;
+			}
+			#two .sousuo:hover{background-color:#FFFFFF ; border-color: #FF0000;}
+			#two .kuang{
+				float: right;
+				
+			}
+			#two .fangdajing{
+				float: left;
+				position: absolute;left: 1153px;top: 52px;
+			}
+			
+			#two .gouwu:hover{background-color:#FCFCFC;cursor: pointer;}
+			#two .gouwu{
+				float: right;
+				height: 43px;
+				width: 122px;
+				border:solid 1px gray;
+				border-radius: 30px;
+				margin: 43px -598px 22px 22px;
+				position: absolute;left: 1196px;top: 1px;
+				font-size: 15px;
+				background:#FFFFFF url(img/che.png) no-repeat 14% 58%;
+			}
+			
+			#two .u1 li{
+				float: left;
+				opacity: .6;
+			}
+			#two .u1 li:hover{opacity: 1;}
+			#two .u1{
+				float: right;
+				margin: 88px -343px 50px 200px;
+				position: absolute;left: 555px;top: 1px;
+			}
+			#two .u2 li{
+				float: left;
+				font-size:16px ;
+			}
+			#two .u2{
+				float: right;
+				margin: -31px 830px 13px 71px;
+				width: 600px;
+				position: absolute;left: 388px;top: 180px;
+			}	
+			#two .u2 li a:hover{color: #FF0000; }
+			#two .i1{
+				color: #FFFFFF;
+				background: #FF4040 url(img/qblm.png) no-repeat 16% 36%;
+				width: 140px;
+				height: 40px;
+				display: inline-block;
+				line-height: 38px;
+				margin: 10px 0 0 278px;
+				font-size:16px ;
+				position: absolute;
+				left: -65px;top: 129px;
+				
+			}
+			#two .i1 .i2{
+				width: 800px;
+				height: 200px;
+				background-color: #FFFFFF;
+				border: 1px solid red;
+				
+			}
+			
+			/* three========================================================================================== */
+			
+			#three{margin: 0 auto;width: 100%; height: 100%;position: relative;}
+			
+			
+			#three .xie{margin:-1px 0 0 0;width: 100%;height: 400px;min-width: 1000px;}
+			
+			#three .u1{margin: 0 auto ;position: absolute;left: 354px;top: 364px;/* min-width: 1000px; */
+						white-space: nowrap;
+						margin: 0 auto;
+						position: absolute;
+						left: 354px;
+						top: 364px;
+						/* min-width: 1000px; */
+						white-space: nowrap;
+						text-align: center;
+						}
+						
+			
+			
+			#three .u1 li{
+				float: left;
+				width: 155px;
+				height: 42px;
+				background-color: #FFFFFF;
+				margin:9px 0px 0px 13px ;
+				z-index: 19;
+				line-height: 42px;
+				font-size: 16px;
+				
+			}
+			#three .u1 li:hover{
+				background: black;
+			}
+			#three .u1 li a:hover{color: white;}
+			
+			/* four============================================================================================= */
+			
+			#four{margin: 0 auto;width: 1070px;height: 110px;}
+			#four .f1{width: 1070px;height: 110px;margin: 0 auto;}
+			
+			/* five================================================================================================= */
+			
+			#five{position: relative;margin: 0 auto;width: 1349px;height: 444px; background: url(img/bjing.png) no-repeat center top;}
+			#five .fr{margin: 10px 146px -27px 143px;}
+			#five .fr li{float: left;}
+			#five ul li:not(.f1):hover a img{transform: scale(1.1,1.1);} 
+			/* six================================================================================================ */
+			#six{margin: 0 auto;height: 390px; position: relative;width: 1070px;}
+			#six .tu1{
+				width: 530px;
+				height: 362px;
+				background-color: white;
+				margin: 10px 0px 0px 3px;
+				display: inline-block;
+				position: relative;
+				
+				}
+			
+			#six .tu1 .wenzi1{
+				display: inline-block;
+				height: 67px;
+				color: #493188;
+				height: 67px;
+				text-align: center;
+				line-height: 70px;
+				font-size: 26px;
+				margin:0px 7px 0px 13px;
+				cursor: pointer;
+				max-width: 190px;
+				overflow: hidden;
+				font-weight: bold;
+				}	
+			#six .tu1 .wenzi2{
+				display: inline-block;
+				overflow: hidden;
+				max-width: 208px;
+				height: 67px;
+				line-height: 76px;
+				font-size: 16px;
+				color: rgba(69, 52, 127, 0.7);
+				cursor: pointer;
+			}
+			#six .tu1 .xiaotu1 img{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: -6px 0px 0px 19px;
+			
+				
+			}
+			#six .tu1 .heitu{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: -6px 0px 0px 19px;
+				opacity: .4;
+				z-index: 19;
+			}
+			
+			#six .tu1 .logoyu img{
+				position: absolute;
+				left: 39px;
+				top: 111px;
+				width: 50px;
+				height: 50px;
+				border-radius: 50px;
+				background: rgba(255,255,255,0.5);
+				z-index: 101;
+			}
+			#six .tu1 .logoyu img:hover{
+				cursor: pointer;
+				opacity: .8;
+				
+			}
+			#six .tu1 .wenzi3{
+				width: 140px;
+				height: 100%;
+				float: left;
+				z-index: 100;
+				position: relative;
+			}
+			#six .tu1 .wenzi3 .p1{
+				font-size: 18px;
+				color: #fff ;
+				width: 100%;
+				text-indent: 20px;
+				height: 18px;
+				margin: 23px 0 0 94px;
+				font-weight: bold;
+				cursor: pointer;
+				line-height: 18px;
+				overflow: hidden;
+			}
+			#six .tu1 .wenzi3 .p2{
+				text-indent: 20px;
+				color: #fff ;
+				font-size: 16px;
+				margin: 12px 0 0 95px;
+				height: 16px;
+				line-height: 16px;
+				overflow: hidden;
+				width: 120px;
+				cursor: pointer;
+			}
+			#six .tu1 .wenzi3 button{
+				width: 63px;
+				height: 23px;
+				border: 1px solid #fff;
+				border-radius: 100px;
+				margin: 0px 0 0 108px;
+				font-size: 14px;
+				color: #fff ;
+				text-indent: 12px;
+				line-height: 20px;
+				margin-top: 15px;
+				cursor: pointer;
+				background: none;
+			}
+			#six .tu1 .wenzi3 button:hover{
+				background-color: #493188;
+				border: 1px solid #493188 ;
+			}
+			
+			#six .tu1 .sangetu{
+				width: 300px;
+				height: 108px;
+				position: absolute;
+				z-index: 21;
+			}
+			#six .tu1 .sangetu ul{
+				margin: -3px -180px 10px 20px;
+			}
+			#six .tu1 .sangetu .fr li{
+				float: left;
+			
+			}
+			#six .tu1 .sangetu ul li img{
+				margin-top: 25px;
+				margin-right: 10px;
+				width: 80px;
+				height: 80px;
+				background-color: #fff;
+			}
+			#six .tu1 .sangetu ul li img:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+			}
+			
+			
+			
+			
+			
+			
+			
+			#six .tu1 .xiaotu2 img{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: 143px 0px 0px -121px;
+			
+				
+			}
+			#six .tu1 .heitu2{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: 143px 0px 0px 19px;
+				opacity: .4;
+				
+			}
+			
+			#six .tu1 .logo2 img{
+				position: absolute;
+				left: 39px;
+				top: 255px;
+				width: 50px;
+				height: 50px;
+				border-radius: 50px;
+				background: rgba(255,255,255,0.5);
+				z-index: 101;
+			}
+			#six .tu1 .logo2 img:hover{
+				cursor: pointer;
+				opacity: .8;
+				
+			}
+			#six .tu1 .wenzi4{
+				width: 140px;
+				height: 100%;
+				float: left;
+				/*z-index: 10;*/
+				position: relative;
+			}
+			#six .tu1 .wenzi4 .p3{
+				font-size: 18px;
+				color: #fff ;
+				width: 100%;
+				text-indent: 20px;
+				height: 18px;
+				margin: 176px 0 0 -48px;
+				font-weight: bold;
+				cursor: pointer;
+				line-height: 18px;
+				overflow: hidden;
+				z-index: 10;
+			}
+			#six .tu1 .wenzi4 .p4{
+				text-indent: 20px;
+				color: #fff ;
+				font-size: 16px;
+				margin: 12px 0 0 -42px;
+				height: 16px;
+				line-height: 16px;
+				overflow: hidden;
+				width: 120px;
+				cursor: pointer;
+			}
+			#six .tu1 .wenzi4 button{
+				width: 63px;
+				height: 23px;
+				border: 1px solid #fff;
+				border-radius: 100px;
+				margin: 0px 0 0 -26px;
+				font-size: 14px;
+				color: #fff ;
+				text-indent: 12px;
+				line-height: 20px;
+				margin-top: 15px;
+				cursor: pointer;
+				background: none;
+			}
+			#six .tu1 .wenzi4 button:hover{
+				background-color: #493188;
+				border: 1px solid #493188 ;
+			}
+			
+			#six .tu1 .sangetu1{
+				width: 300px;
+				height: 108px;
+				position: absolute;
+				z-index: 20;
+				
+			}
+			#six .tu1 .sangetu1 ul{
+				margin: 143px -180px 10px 20px;
+			}
+			#six .tu1 .sangetu1 .fr li{
+				float: left;
+			z-index: 11;
+			}
+			#six .tu1 .sangetu1 ul li img{
+				margin-top: 25px;
+				margin-right: 10px;
+				width: 80px;
+				height: 80px;
+				background-color: #fff;
+			}
+			#six .tu1 .sangetu1 ul li img:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+				
+			}
+			
+			#six .tu2{
+				width: 530px;
+				height: 362px;
+				background-color: white;
+				margin: -362px 0px 0px 8px;
+				display: inline-block;
+				float: right;
+				}
+			#six .tu2 .wenzi1{
+				display: inline-block;
+				height: 67px;
+				color: #493188;
+				height: 67px;
+				text-align: center;
+				line-height: 70px;
+				font-size: 26px;
+				margin:0px 7px 0px 13px;
+				cursor: pointer;
+				max-width: 190px;
+				overflow: hidden;
+				font-weight: bold;
+				}	
+			#six .tu2 .wenzi2{
+				display: inline-block;
+				overflow: hidden;
+				max-width: 208px;
+				height: 67px;
+				line-height: 76px;
+				font-size: 16px;
+				color: rgba(69, 52, 127, 0.7);
+				cursor: pointer;
+				
+			}
+			#six .tu2 .xiaotu1 img{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: -6px 0px 0px 19px;
+				z-index: 1;
+			
+				
+			}
+			#six .tu2 .heitu{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: -6px 0px 0px 19px;
+				opacity: .4;
+				z-index: 2;
+			}
+			
+		
+			
+				
+			
+			#six .tu2 .wenzi3{
+				width: 140px;
+				height: 100%;
+				float: left;
+				z-index: 1100;
+				position: relative;
+			}
+			#six .tu2 .wenzi3 .p1{
+				font-size: 18px;
+				color: #fff ;
+				width: 100%;
+				text-indent: 20px;
+				height: 18px;
+				margin: 23px 0 0 31px;
+				font-weight: bold;
+				cursor: pointer;
+				line-height: 18px;
+				overflow: hidden;
+			}
+			#six .tu2 .wenzi3 .p2{
+				text-indent: 20px;
+				color: #fff ;
+				font-size: 16px;
+				margin: 12px 0 0 61px;
+				height: 16px;
+				line-height: 16px;
+				overflow: hidden;
+				width: 120px;
+				cursor: pointer;
+			}
+			#six .tu2 .wenzi3 button{
+				width: 63px;
+				height: 23px;
+				border: 1px solid #fff;
+				border-radius: 100px;
+				margin: 0px 0 0 83px;
+				font-size: 14px;
+				color: #fff ;
+				text-indent: 12px;
+				line-height: 20px;
+				margin-top: 15px;
+				cursor: pointer;
+				background: none;
+			}
+			#six .tu2 .wenzi3 button:hover{
+				background-color: #ac8602;
+				border: 1px solid #ac8602 ;
+			}
+			
+			#six .tu2 .sangetu{
+				width: 300px;
+				height: 108px;
+				position: absolute;
+				z-index: 1000;
+			}
+			#six .tu2 .sangetu ul{
+				margin: -3px -180px 10px 20px;
+			}
+			#six .tu2 .sangetu .fr li{
+				float: left;
+			
+			}
+			#six .tu2 .sangetu ul li img{
+				margin-top: 25px;
+				margin-right: 10px;
+				width: 80px;
+				height: 80px;
+				background-color: #fff;
+			}
+			#six .tu2 .sangetu ul li img:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+			}
+			
+			
+			
+			
+			
+			
+			
+			#six .tu2 .xiaotu2 img{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: 143px 0px 0px -121px;
+			
+				
+			}
+			#six .tu2 .heitu2{
+				width: 490px;
+				height: 130px;
+				min-width: 490px;
+				position: absolute;
+				cursor: pointer;
+				margin: 143px 0px 0px 19px;
+				opacity: .4;
+				
+			}
+			
+			#six .tu2 .logo2 img{
+				position: absolute;
+				left: 39px;
+				top: 255px;
+				width: 50px;
+				height: 50px;
+				border-radius: 50px;
+				background: rgba(255,255,255,0.5);
+				z-index: 101;
+			}
+			#six .tu2 .logo2 img:hover{
+				cursor: pointer;
+				opacity: .8;
+				
+			}
+			#six .tu2 .wenzi4{
+				width: 140px;
+				height: 100%;
+				float: left;
+				z-index:1100;
+				position: relative;
+			}
+			#six .tu2 .wenzi4 .p3{
+				font-size: 18px;
+				color: #fff ;
+				width: 100%;
+				text-indent: 20px;
+				height: 18px;
+				margin: 176px 0 0 -89px;
+				font-weight: bold;
+				cursor: pointer;
+				line-height: 18px;
+				overflow: hidden;
+				z-index: 10;
+			}
+			#six .tu2 .wenzi4 .p4{
+				text-indent: 20px;
+				color: #fff ;
+				font-size: 16px;
+				margin: 12px 0 0 -95px;
+				height: 16px;
+				line-height: 16px;
+				overflow: hidden;
+				width: 120px;
+				cursor: pointer;
+			}
+			#six .tu2 .wenzi4 button{
+				width: 63px;
+				height: 23px;
+				border: 1px solid #fff;
+				border-radius: 100px;
+				margin: 0px 0 0 -46px;
+				font-size: 14px;
+				color: #fff ;
+				text-indent: 12px;
+				line-height: 20px;
+				margin-top: 15px;
+				cursor: pointer;
+				background: none;
+			}
+			#six .tu2 .wenzi4 button:hover{
+				background-color: #ac8602;
+				border: 1px solid #ac8602 ;
+			}
+			
+			#six .tu2 .sangetu1{
+				width: 300px;
+				height: 108px;
+				position: absolute;
+				z-index: 999;
+				
+			}
+			#six .tu2 .sangetu1 ul{
+				margin: 143px -180px 10px 20px;
+			}
+			#six .tu2 .sangetu1 .fr li{
+				float: left;
+			z-index: 11;
+			}
+			#six .tu2 .sangetu1 ul li img{
+				margin-top: 25px;
+				margin-right: 10px;
+				width: 80px;
+				height: 80px;
+				background-color: #fff;
+			}
+			#six .tu2 .sangetu1 ul li img:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+				
+			}
+/*seven===============================================================================================================================*/
+			#seven{
+				width: 1070px;
+				margin: 0 auto;
+				height: 421px;
+				/* background-color: lightpink; */
+			}
+			#seven .wenzi{
+				color: rgb(183, 115, 71);
+				margin-top: 17px;
+				height: 35px;
+   				margin-left: 20px;
+   				font-size: 26px;
+    			display: inline-block;
+   				cursor: pointer;
+    			max-width: 190px;
+    			overflow: hidden;
+
+			}
+			#seven .wenzi1{
+				color: rgb(183, 115, 71);
+				margin-left: 8px;
+				font-size: 16px;
+				margin-top: 27px;
+				height: 21px;
+				cursor: pointer;
+				display: inline-block;
+				max-width: 208px;
+				overflow: hidden;
+				position: relative;
+				top: -3px;
+			}
+			#seven .zuozhong{
+				width: 920px;
+				height: 344px;
+				position: relative;
+				padding-left: 20px;
+				/* background-color: skyblue; */
+			}
+			#seven .zuozhong .zuo img{
+				width: 189px;
+				height: 334px;
+				
+
+			}
+			#seven .zuozhong .zuo{
+				width: 189px;
+				height: 334px;
+			}
+			#seven .zuozhong .zuo .text{
+				font-size: 14px;
+				color: #fff;
+				position: absolute;
+				width: 176px;
+				height: 90px;
+				margin-left: 14px;
+				top: 16px;
+			}
+			#seven .zuozhong .zuo .text a{
+				background: rgba(255,255,255,0.1)!important;
+				border: 1px solid rgba(255,255,255,0.61) !important;
+				width: 74px;
+				height: 23px;
+				text-align: center;
+				line-height: 23px;
+				float: left;
+				margin-right: 9px;
+				margin-bottom: 9px;
+				cursor: pointer;
+				color: #fff;
+				overflow: hidden;
+			}
+			#seven .zuozhong .zuo .text a:hover{
+				opacity: .5;
+			}
+			#seven .zuozhong .zhong{
+				width: 680px;
+				height: 334px;
+				float: left;
+				/* background-color: greenyellow; */
+				margin:-334px 0px 0px 212px;
+			}
+			#seven .zuozhong .zhong ul{
+				width:680px ;
+				height:167px ;
+				text-align: center;
+				
+			}
+			#seven .zuozhong .zhong ul li{
+				width:167.5px ;
+				height:167px ;
+				float: left;
+			}
+			#seven .zuozhong .zhong ul li .pone{
+				margin-top: 40px;
+				color: #793a11;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#seven .zuozhong .zhong ul li .ptwo{
+				color: #b77347;
+				margin-top: 5px;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#seven .zuozhong .zhong ul li .p1{
+				margin-left: 15px;
+				font-size: 14px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+			}
+			#seven .zuozhong .zhong ul li .p2{
+				margin-left: 15px;
+				font-size: 14px;
+				color: #999;
+				margin-top: -1px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+			}
+			#seven .zuozhong .zhong ul li button{
+				width: 78px;
+				height: 27px;
+				text-align: center;
+				line-height: 27px;
+				margin-top: 15px;
+				cursor: pointer;
+				overflow: hidden;
+				border: 1px solid rgba(228,147,55,0.5) !important;
+				color: #B77347 !important;
+			}
+			#seven .zuozhong .zhong ul li .img1{
+				width:110px ;
+				height:110px ;
+			}
+			#seven .zuozhong .zhong ul li .img2{
+				width: 90px;
+				height:90px ;
+			}
+			#seven .zuozhong .zhong ul li .img2:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+			}
+			#seven .zuozhong .zhong ul li .img1:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+				}
+			#seven .you{
+				width: 170px;
+				height: 421px;
+				float: right;
+				border-left: 1px solid #f6f6f6;
+				margin: -343px -51px 0px 10px;
+			}
+			#seven .you .yosp1{
+				font-size: 16px;
+				color: #333;
+				margin-bottom: 15px;
+				width: 130px;
+				height: 21px;
+				cursor: pointer;
+			}
+			#seven .you .yosp2{
+				font-size: 14px;
+				color: #999;
+				margin-bottom: 5px;
+				width: 130px;
+				height: 21px;
+				overflow: hidden;
+				white-space: nowrap;
+				cursor: pointer;
+				
+			}
+			#seven .you ul li img{
+				cursor: pointer;
+			}
+			#seven .zuozhong .zhong .fr .y1{
+				background-color: #FAF8F7;
+			}
+			
+			/* eight =============================================================================================================*/
+			#eight{
+				width: 1070px;
+				margin: 0 auto;
+				height: 421px;
+				/* background-color: lightpink; */
+			}
+			#eight .wenzi{
+				color: #65C73E;
+				margin-top: 17px;
+				height: 35px;
+				margin-left: 20px;
+				font-size: 26px;
+				display: inline-block;
+				cursor: pointer;
+				max-width: 190px;
+				overflow: hidden;
+			
+			}
+			#eight .wenzi1{
+				color: #65C73E;
+				margin-left: 8px;
+				font-size: 16px;
+				margin-top: 27px;
+				height: 21px;
+				cursor: pointer;
+				display: inline-block;
+				max-width: 208px;
+				overflow: hidden;
+				position: relative;
+				top: -3px;
+			}
+			#eight .zuozhong{
+				width: 920px;
+				height: 344px;
+				position: relative;
+				padding-left: 20px;
+				/* background-color: skyblue; */
+			}
+			#eight .zuozhong .zuo img{
+				width: 189px;
+				height: 334px;
+				
+			
+			}
+			#eight .zuozhong .zuo{
+				width: 189px;
+				height: 334px;
+			}
+			#eight .zuozhong .zuo .text{
+				font-size: 14px;
+				color: #fff;
+				position: absolute;
+				width: 176px;
+				height: 90px;
+				margin-left: 14px;
+				top: 16px;
+			}
+			#eight .zuozhong .zuo .text a{
+				background: rgba(255,255,255,0.1)!important;
+				border: 1px solid rgba(255,255,255,0.61) !important;
+				width: 74px;
+				height: 23px;
+				text-align: center;
+				line-height: 23px;
+				float: left;
+				margin-right: 9px;
+				margin-bottom: 9px;
+				cursor: pointer;
+				color: #fff;
+				overflow: hidden;
+			}
+			#eight .zuozhong .zuo .text a:hover{
+				opacity: .5;
+			}
+			#eight .zuozhong .zhong{
+				width: 680px;
+				height: 334px;
+				float: left;
+				/* background-color: greenyellow; */
+				margin:-334px 0px 0px 212px;
+			}
+			#eight .zuozhong .zhong ul{
+				width:680px ;
+				height:167px ;
+				text-align: center;
+				
+			}
+			#eight .zuozhong .zhong ul li{
+				width:167.5px ;
+				height:167px ;
+				float: left;
+			}
+			#eight .zuozhong .zhong ul li .pone{
+				margin-top: 40px;
+				color: #3C8020;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#eight .zuozhong .zhong ul li .ptwo{
+				color: #65C73E;
+				margin-top: 5px;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#eight .zuozhong .zhong ul li .p1{
+				margin-left: 15px;
+				font-size: 14px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+			}
+			#eight .zuozhong .zhong ul li .p2{
+				margin-left: 15px;
+				font-size: 14px;
+				color: #666;
+				margin-top: -1px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+				font-family: Tahoma;
+				font-weight: Bold;
+			}
+			#eight .zuozhong .zhong ul li button{
+				width: 78px;
+				height: 27px;
+				text-align: center;
+				line-height: 27px;
+				margin-top: 15px;
+				cursor: pointer;
+				overflow: hidden;
+				border: 1px solid #65C73E !important;
+				color: #65C73E !important;
+			}
+			#eight .zuozhong .zhong ul li .img1{
+				width:110px ;
+				height:110px ;
+			}
+			#eight .zuozhong .zhong ul li .img2{
+				width: 90px;
+				height:90px ;
+			}
+			#eight .zuozhong .zhong ul li .img2:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+			}
+			#eight .zuozhong .zhong ul li .img1:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+				}
+			#eight .you{
+				width: 170px;
+				height: 421px;
+				float: right;
+				border-left: 1px solid #f6f6f6;
+				margin: -343px -51px 0px 10px;
+			}
+			#eight .you .yosp1{
+				font-size: 16px;
+				color: #333;
+				margin-bottom: 15px;
+				width: 130px;
+				height: 21px;
+				cursor: pointer;
+			}
+			#eight .you .yosp2{
+				font-size: 14px;
+				color: #999;
+				margin-bottom: 5px;
+				width: 130px;
+				height: 21px;
+				overflow: hidden;
+				white-space: nowrap;
+				cursor: pointer;
+			}
+			#eight .you ul li img{
+				cursor: pointer;
+			}
+			#eight .zuozhong .zhong .fr .y1{
+				background-color: #F6F9F6;
+			}
+			/* nine================================================================================================= */
+			#nine{
+				width: 1070px;
+				margin: 0 auto;
+				height: 421px;
+				/* background-color: lightpink; */
+			}
+			#nine .wenzi{
+				color: #E451A8;
+				margin-top: 17px;
+				height: 35px;
+				margin-left: 20px;
+				font-size: 26px;
+				display: inline-block;
+				cursor: pointer;
+				max-width: 190px;
+				overflow: hidden;
+			
+			}
+			#nine .wenzi1{
+				color: #E451A8;
+				margin-left: 8px;
+				font-size: 16px;
+				margin-top: 27px;
+				height: 21px;
+				cursor: pointer;
+				display: inline-block;
+				max-width: 208px;
+				overflow: hidden;
+				position: relative;
+				top: -3px;
+			}
+			#nine .zuozhong{
+				width: 920px;
+				height: 344px;
+				position: relative;
+				padding-left: 20px;
+				/* background-color: skyblue; */
+			}
+			#nine .zuozhong .zuo img{
+				width: 189px;
+				height: 334px;
+				
+			
+			}
+			#nine .zuozhong .zuo{
+				width: 189px;
+				height: 334px;
+			}
+			#nine .zuozhong .zuo .text{
+				font-size: 14px;
+				color: #fff;
+				position: absolute;
+				width: 176px;
+				height: 90px;
+				margin-left: 14px;
+				top: 16px;
+			}
+			#nine .zuozhong .zuo .text a{
+				background: rgba(255,255,255,0.1)!important;
+				border: 1px solid rgba(255,255,255,0.61) !important;
+				width: 74px;
+				height: 23px;
+				text-align: center;
+				line-height: 23px;
+				float: left;
+				margin-right: 9px;
+				margin-bottom: 9px;
+				cursor: pointer;
+				color: #fff;
+				overflow: hidden;
+			}
+			#nine .zuozhong .zuo .text a:hover{
+				opacity: .5;
+			}
+			#nine .zuozhong .zhong{
+				width: 680px;
+				height: 334px;
+				float: left;
+				/* background-color: greenyellow; */
+				margin:-334px 0px 0px 212px;
+			}
+			#nine .zuozhong .zhong ul{
+				width:680px ;
+				height:167px ;
+				text-align: center;
+				
+			}
+			#nine .zuozhong .zhong ul li{
+				width:167.5px ;
+				height:167px ;
+				float: left;
+			}
+			#nine .zuozhong .zhong ul li .pone{
+				margin-top: 40px;
+				color: #8E1767;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#nine .zuozhong .zhong ul li .ptwo{
+				color: #A858A0;
+				margin-top: 5px;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#nine .zuozhong .zhong ul li .p1{
+				margin-left: 15px;
+				font-size: 14px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+			}
+			#nine .zuozhong .zhong ul li .p2{
+				margin-left: 15px;
+				font-size: 14px;
+				color: #666;
+				margin-top: -1px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+				font-family: Tahoma;
+				font-weight: Bold;
+			}
+			#nine .zuozhong .zhong ul li button{
+				width: 78px;
+				height: 27px;
+				text-align: center;
+				line-height: 27px;
+				margin-top: 15px;
+				cursor: pointer;
+				overflow: hidden;
+				border: 1px solid #E6A7CC !important;
+				color: #D15AB3 !important;
+			}
+			#nine .zuozhong .zhong ul li .img1{
+				width:110px ;
+				height:110px ;
+			}
+			#nine .zuozhong .zhong ul li .img2{
+				width: 90px;
+				height:90px ;
+			}
+			#nine .zuozhong .zhong ul li .img2:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+			}
+			#nine .zuozhong .zhong ul li .img1:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+				}
+			#nine .you{
+				width: 170px;
+				height: 421px;
+				float: right;
+				border-left: 1px solid #f6f6f6;
+				margin: -343px -51px 0px 10px;
+			}
+			#nine .you .yosp1{
+				font-size: 16px;
+				color: #333;
+				margin-bottom: 15px;
+				width: 130px;
+				height: 21px;
+				cursor: pointer;
+			}
+			#nine .you .yosp2{
+				font-size: 14px;
+				color: #999;
+				margin-bottom: 5px;
+				width: 130px;
+				height: 21px;
+				overflow: hidden;
+				white-space: nowrap;
+				cursor: pointer;
+			}
+			#nine .you ul li img{
+				cursor: pointer;
+			}
+			#nine .zuozhong .zhong .fr .y1{
+				background-color: #FCF7FA;
+			}
+			/* ten==================================================================================================== */
+			#ten{
+				width: 1070px;
+				margin: 0 auto;
+				height: 421px;
+				/* background-color: lightpink; */
+			}
+			#ten .wenzi{
+				color: #6177CF;
+				margin-top: 17px;
+				height: 35px;
+				margin-left: 20px;
+				font-size: 26px;
+				display: inline-block;
+				cursor: pointer;
+				max-width: 190px;
+				overflow: hidden;
+			
+			}
+			#ten .wenzi1{
+				color: #6177CF;
+				margin-left: 8px;
+				font-size: 16px;
+				margin-top: 27px;
+				height: 21px;
+				cursor: pointer;
+				display: inline-block;
+				max-width: 208px;
+				overflow: hidden;
+				position: relative;
+				top: -3px;
+			}
+			#ten .zuozhong{
+				width: 920px;
+				height: 344px;
+				position: relative;
+				padding-left: 20px;
+				/* background-color: skyblue; */
+			}
+			#ten .zuozhong .zuo img{
+				width: 189px;
+				height: 334px;
+				
+			
+			}
+			#ten .zuozhong .zuo{
+				width: 189px;
+				height: 334px;
+			}
+			#ten .zuozhong .zuo .text{
+				font-size: 14px;
+				color: #fff;
+				position: absolute;
+				width: 176px;
+				height: 90px;
+				margin-left: 14px;
+				top: 16px;
+			}
+			#ten .zuozhong .zuo .text a{
+				background: rgba(255,255,255,0.1)!important;
+				border: 1px solid rgba(255,255,255,0.61) !important;
+				width: 74px;
+				height: 23px;
+				text-align: center;
+				line-height: 23px;
+				float: left;
+				margin-right: 9px;
+				margin-bottom: 9px;
+				cursor: pointer;
+				color: #fff;
+				overflow: hidden;
+			}
+			#ten .zuozhong .zuo .text a:hover{
+				opacity: .5;
+			}
+			#ten .zuozhong .zhong{
+				width: 680px;
+				height: 334px;
+				float: left;
+				/* background-color: greenyellow; */
+				margin:-334px 0px 0px 212px;
+			}
+			#ten .zuozhong .zhong ul{
+				width:680px ;
+				height:167px ;
+				text-align: center;
+				
+			}
+			#ten .zuozhong .zhong ul li{
+				width:167.5px ;
+				height:167px ;
+				float: left;
+			}
+			#ten .zuozhong .zhong ul li .pone{
+				margin-top: 40px;
+				color: #1E389A;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#ten .zuozhong .zhong ul li .ptwo{
+				color: #1E389A;
+				margin-top: 5px;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				width: 150px;
+				cursor: pointer;
+			}
+			#ten .zuozhong .zhong ul li .p1{
+				margin-left: 15px;
+				font-size: 14px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+			}
+			#ten .zuozhong .zhong ul li .p2{
+				margin-left: 15px;
+				font-size: 14px;
+				color: #666;
+				margin-top: -1px;
+				overflow: hidden;
+				height: 14px;
+				width: 102px;
+				line-height: 1;
+				margin-bottom: 7px;
+				cursor: pointer;
+				font-family: Tahoma;
+				font-weight: Bold;
+			}
+			#ten .zuozhong .zhong ul li button{
+				width: 78px;
+				height: 27px;
+				text-align: center;
+				line-height: 27px;
+				margin-top: 15px;
+				cursor: pointer;
+				overflow: hidden;
+				border: 1px solid #ABB8EA !important;
+				color: #647EDC !important;
+			}
+			#ten .zuozhong .zhong ul li .img1{
+				width:110px ;
+				height:110px ;
+			}
+			#ten .zuozhong .zhong ul li .img2{
+				width: 90px;
+				height:90px ;
+			}
+			#ten .zuozhong .zhong ul li .img2:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+			}
+			#ten .zuozhong .zhong ul li .img1:hover{
+				cursor: pointer;
+				transform: translateX(-8px);
+				transition: transform all 1s;
+				}
+			#ten .you{
+				width: 170px;
+				height: 421px;
+				float: right;
+				border-left: 1px solid #f6f6f6;
+				margin: -343px -51px 0px 10px;
+			}
+			#ten .you .yosp1{
+				font-size: 16px;
+				color: #333;
+				margin-bottom: 15px;
+				width: 130px;
+				height: 21px;
+				cursor: pointer;
+			}
+			#ten .you .yosp2{
+				font-size: 14px;
+				color: #999;
+				margin-bottom: 5px;
+				width: 130px;
+				height: 21px;
+				overflow: hidden;
+				white-space: nowrap;
+				cursor: pointer;
+			}
+			#ten .you ul li img{
+				cursor: pointer;
+			}
+			#ten .zuozhong .zhong .fr .y1{
+				background-color: #F5F5F9;
+			}
+			
+			
+			#kong{width: 100%;height: 100px;}
+			/* eleven======================================================================================================= */
+			#eleven{
+				width: 100%;
+				margin: 0 auto;
+				height: 499px;
+				background-color: white;
+			}
+			#eleven .top{
+				margin: 0 auto;
+				width: 1070px;
+				padding: 30px 0 79px 0;
+				border-bottom: 1px solid #ebebeb;;
+			}
+			#eleven .top p{
+				margin-right: 62px !important;
+				margin-left: 0px !important;
+				float: left;
+				display:inline-block;
+				width: 205px;
+				overflow: hidden;
+				margin: 0 51px;
+			}
+			#eleven .top p img{
+				float: left;
+				display: block;
+				width: 66px;
+				height: 66px;
+				margin-right: 10px;
+			}
+			#eleven .top p b{
+				margin-top: 10px;
+				font-size: 16px;
+				color: #333;
+				display: block;
+			}
+			#eleven .top p span{
+				font-size: 14px;
+				color: #999;
+				line-height: 26px;
+			}
+			#eleven .center{
+				padding: 20px 0 20px;
+				overflow: hidden;
+				width: 1070px;
+				height: 195px;
+				margin: 0 auto;
+			}
+			#eleven .center .center1{
+				float: left;
+				padding-left: 15px;
+			}
+			#eleven .center .center1 dl{
+				float: left;
+				display: block;
+				width: 195px;
+				/* text-align: center; */
+			}
+			#eleven .center .center1 dl dt{
+				height: 32px;
+				padding: 0 8px;
+				font-size: 14px;
+				line-height: 32px;
+				overflow: hidden;
+				font-family: "Microsoft YaHei";
+				color: #666;
+				font-weight: bold;
+			}
+			#eleven .center .center1 dl dd{
+				height: 24px;
+				padding: 0 8px;
+				line-height: 24px;
+				overflow: hidden;
+				white-space: normal;
+				font-size: 12px;
+			}
+			#eleven .center .center1 dl dd a:hover{
+				color: red;
+			}
+			#eleven .center .center2{
+				width: 280px;
+				overflow: hidden;
+				float: left;
+				margin-right: -50px;
+			}
+			#eleven .center .center2 .c1{
+				float: left;
+				margin-right: 50px;
+				line-height: 32px;
+				font-size: 14px;
+				font-weight: bold;
+				color: #666;
+			}
+			#eleven .center .center2 .c2{
+				line-height: 32px;
+				font-size: 14px;
+				font-weight: bold;
+				color: #666;
+			}
+			#eleven .bottom .p1{
+				color: #666;
+				text-align: center;
+				text-indent: 0;
+				line-height: 100%;
+				margin: 15px 0;
+				padding: 0;
+			}
+			#eleven .bottom .p2 a{
+				color: #333;
+				margin: 0px 3px;
+				font: 12px "Microsoft YaHei";
+			}
+			#eleven .bottom .p2 a:hover{
+				color: red;
+			}
+			#eleven .bottom .p3{
+				color: #666;
+				text-align: center;
+				text-indent: 0;
+				line-height: 100%;
+				margin: 15px 0;
+				padding: 0;
+			}
+			#eleven .bottom small{
+				display:block;
+				padding: 10px 0 20px;
+				text-align: center;
+				font-size: 0;
+			}
+			#eleven .bottom small img{
+				margin: 0 4px;
+			}
+			#fixed{
+				/* width: 100px;
+				height: 100px;
+				background-color: red; */
+				float: right;
+			}
+			#fixed .f1{
+				position: fixed;
+				top: 156px;
+				width: 100px;
+				left: 52%;
+				margin-left: 540px;
+				z-index: 999;
+			}
+			#fixed .f1 p{
+				background-color: white;
+				font-weight: bold;
+				text-align: center;
+				height:25px ;
+			}
+			#fixed .f1 img:hover{
+				cursor: pointer;
+			}
+			#fixed .f1 .ff{
+				display: block;
+				font-weight: bold;
+				text-align: center;
+				background-color: #333333;
+				color: white;
+				height:25px ;
+			}
+			#fixed .f1 .ff:hover{
+				background-color: #000000;
+			}
+
+			
+			
+			
